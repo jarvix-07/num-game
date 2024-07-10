@@ -1,0 +1,29 @@
+body{
+    background:url(./img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main{
+    height: 400px;
+    width: 550px;
+    box-shadow: 15px 15px 15px black;
+    border-radius: 2%;
+    border:2px solid white;
+    margin: auto;
+    margin-top: 100px;
+    background: rgb(48, 192, 20);
+    text-align: center;
+    opacity: 70%;
+}
+#rules{
+    text-align: justify;
+    margin-left: 125px;
+}
+
+button{
+    border-radius: 20%;
+    
+}
+#c,#r{
+    background: linear-gradient(90deg,red,black);
+}
